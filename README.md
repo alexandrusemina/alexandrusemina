@@ -10,6 +10,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrusemina&show_icons=true&theme=highcontrast&bg_color=000000&locale=en&layout=compact" alt="alexandrusemina" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrusemina&show_icons=true&theme=red&bg_color=000000&locale=en" alt="alexandrusemina" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrusemina&show_icons=true&theme=FF0000&bg_color=000000&locale=en" alt="alexandrusemina" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrusemina&theme=dark" alt="alexandrusemina" /></p>
