@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Alexandru.</h1>
-<h2 align="center">▪ I am a 17 year old beginner Romanian Developer.</h2>
+<h2 align="center">▪ I am a 18 year old beginner Romanian Developer.</h2>
 <p align="center"> ▪ I’m currently learning accounting and IT at "Vasile Conta" High School. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexansdrusemina&label=Profile%20views&color=02b6f2&style=flat" alt="alexandrusemina" /> </p>
